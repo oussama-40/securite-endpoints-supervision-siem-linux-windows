@@ -299,5 +299,5 @@ Les captures d'écran associées au projet démontrent :
 
 ## 📝 Informations du projet
 **Projet** : SIEM + EDR avec Wazuh sur AWS   
-**Date** : Janvier 2025
+**Date** : Janvier 2026
 
